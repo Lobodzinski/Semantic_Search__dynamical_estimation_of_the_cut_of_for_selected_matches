@@ -8,5 +8,6 @@ The provided code (_Semantic_Search__dynamical_estimation_of_the_cut_of_for_sele
  This method can determine the final solution or be a prelude to a more modified version of it. 
 
 ### How to view the attached Jupyter notebook script:
-open https://nbviewer.jupyter.org/ and paste the link https://github.com/Lobodzinski/Semantic_Search__dynamical_estimation_of_the_cut_of_for_selected_matches/blob/main/Estimation_of_the_threshold_for_matched_pairs_of_queries__semantic%20search.ipynb 
+open https://nbviewer.jupyter.org/ and paste the link   
+https://github.com/Lobodzinski/Semantic_Search__dynamical_estimation_of_the_cut_of_for_selected_matches/blob/main/Estimation_of_the_threshold_for_matched_pairs_of_queries__semantic%20search.ipynb   
 into notepad (this is a standalone tool that can work when github is not working).
